@@ -17,7 +17,7 @@ I will use the M3x16mm screws, M3x5mx4mm heatset inserts do hold it together.
 The total is around $6.81
 This price is all for the number of required pieaces except the mini-e leds which are a 20x pack.
 They are all without tax and shipping costs as well.
-Also I am pretty sure that I didn't have to make a journal and everything since its a begenir project, but I just did for practice for when I do a custom project! :)
+Also I am pretty sure that I didn't have to make a journal and everything since its a beginner project, but I just did for practice for when I do a custom project! :)
 Lastly remember to leave back feedback on anything and/or everythinbg it would be greatly appreciated 
 
 *Thanks in advance*

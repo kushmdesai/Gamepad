@@ -1,6 +1,6 @@
 ---
 title: "Gamepad"
-author: Kush"
+author: "Kush"
 description: "A hackpad but designed for the best level of gaming"
 created_at: "2025-05-21"
 ---
@@ -8,6 +8,7 @@ created_at: "2025-05-21"
 
 
 **Total Time spent making this: 12.5 Hours**
+
 *What I spent this much time doing it?*
 
 *I need to get life :(*
@@ -97,7 +98,7 @@ This is the same as the first one except its all by itself and not stacked.
 
 ### Time spent: .5 Hours
 
-So today after I got back from school I just waited until the starting ceremony and wow it was amazing! I liked the slide show a lot and the giveaway announcements were so exciting. After the call I had some other stuff do to but quickly got back to the project. Although I supposed I didn't really do anythinig today I stil messed around with the pcb, case, and also did some research about wheather I should use kmk or qmk.
+So today after I got back from school I just waited until the starting ceremony and wow it was amazing! I liked the slide show a lot and the giveaway announcements were so exciting. After the call I had some other stuff do to but quickly got back to the project. Although I supposed I didn't really do anything today I stil messed around with the pcb, case, and also did some research about wheather I should use kmk or qmk.
 
 ## May 24 - Coding
 
@@ -186,6 +187,10 @@ if __name__ == '__main__':
 ```
 This is what I have currently whle I right this journal but it might change if if i mess around with it before subbmitting so check the main.py file in production and ./CPF-AllFiles/FIRMWAREfiles/main.py
 
-don't forget to write feed back.
+[Github repo](https://github.com/kushmdesai/Gamepad/)
+
+Don't forget to write feedback!
+
+*Also if you see any grammar errors just let me know*
 
 *THANKS for reading and THANKS in advance*
