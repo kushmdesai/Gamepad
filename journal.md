@@ -7,7 +7,7 @@ created_at: "2025-05-21"
 
 
 
-**Total Time spent making this: 12.5 Hours**
+**Total Time spent making this: 14.5 Hours**
 
 *What I spent this much time doing it?*
 
@@ -194,3 +194,23 @@ Don't forget to write feedback!
 *Also if you see any grammar errors just let me know*
 
 *THANKS for reading and THANKS in advance*
+
+## May 8
+
+### Time spent 2 hours
+
+I got accepted and I bought the pcb from JLC, the case from #printing-legion, and I got the parts for the kit. All this happend a while back and now I just have to make all of my projects so I got this over with first.
+
+It took me a while to do the soldering as I have never done it before but after I was finished I just put the case over it and the screws and keycaps on it. Now I was DONE!!!! lets gooooooo. Thats my 1/4 projects finished.
+
+Other projects to do:
+
+ - Mini-Safe <--4pts
+ - Button-Blitz <--4pts
+ - Keyboard <-- 6pts
+
+If a reviewer is reading this my Mini-safe has been aproved but I have gotten the money yet so please send it to me!
+
+My Keyboard project also needs to get reviewed so I would very much appreciate it if you could revew it. please.
+
+Ok well bye!!
